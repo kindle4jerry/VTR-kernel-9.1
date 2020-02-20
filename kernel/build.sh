@@ -21,7 +21,6 @@ mkdir ../out
 #照搬就好
 make ARCH=arm64 O=../out merge_hi3660_defconfig
 
-
 #这个-j的参数可以自己选择，据不可靠消息表明可以设置为cpu线程数的1-2倍
 #ps我可是试过j256的勇士，linux用户界面都给我卡掉了
 #pps我4c8t初次编译用的多少忘了，但是以后编译基本都是用的80那么多
