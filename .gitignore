@@ -1,4 +1,5 @@
 out/
 kernel/tools/*.img
 kernel/tools/*.gz
-kernel/drivers/hisi/tzdriver/__pycache__/
+kernel/drivers/hisi/tzdriver/__pycache__/*.pyc
+kernel/drivers/hisi/tzdriver/__pycache__/*.pyc
